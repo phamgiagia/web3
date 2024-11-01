@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Device Redirect</title>
+    <script>
+      window.onload = function redirectBasedOnDevice() {
+        var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+        var isTablet = /iPad/i.test(navigator.userAgent);
+
+        if (isMobile) {
+          if (isTablet) {
+            window.location.assign("/home/tablet/");
+          } else {
+            window.location.assign("/home/mobile/");
+          }
+        } else {
+          window.location.assign("/home/desktop/");
+        }
+      };
+    </script>
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to view the full site.</noscript>
+  </body>
+</html>

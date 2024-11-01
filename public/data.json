@@ -1,0 +1,994 @@
+[
+  {
+    "catagory": "opweb-templates",
+    "type": "real-estate-agent",
+    "name": "Housing - Real Estate Landing Page",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/5fb189c0-85f2-4e0d-90b1-7a5d8e4f6e71?w=1170&cf_fit=scale-down&q=85&format=auto&s=488c2a9a65853af68c918b6c29fa88e1f17322b0d9f120e9b63e97a38741387a",
+    "image2": "",
+    "urlDemo": "http://themestarz.net/html/housing/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "real-estate-agent",
+    "name": "Estica — Real Estate Landing Page",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/5be75543-ab88-4ba0-9c9b-db9c57e2eb6b?w=2038&cf_fit=scale-down&q=85&format=auto&s=5817abc4f53b03201bad4fea5924ee41f397acb25831e1f32285f852f47c4144",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/5be75543-ab88-4ba0-9c9b-db9c57e2eb6b?w=710&cf_fit=scale-down&q=85&format=auto&s=324c1020c932415147dd1c0fbc0493b339ad5b2a6a22b05f374d63cb050f6b7d",
+    "urlDemo": "https://demo.tutsflow.com/estica/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "real-estate-agent",
+    "name": "Realtor - Real Estate HTML",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/b2bc2bda-ab54-4365-b8cc-34c5a34cd624?w=2038&cf_fit=scale-down&q=85&format=auto&s=d757f0cc4e4007c04ef0c3f3e749a88f9d714ca2b59444758a76d71a3c23c28f",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/b2bc2bda-ab54-4365-b8cc-34c5a34cd624?w=710&cf_fit=scale-down&q=85&format=auto&s=0b60b98ad4114581d20f98e92a76fd18a4233829dccda0d6d77e0f9b3852b57e",
+    "urlDemo": "https://demoxml.com/html/realtor/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "real-estate-agent",
+    "name": "Real Places - HTML5 Template for Real Estate",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/82c4d167-8604-4714-9a95-a0dbeeb68d22?w=2038&cf_fit=scale-down&q=85&format=auto&s=804bb7bb695eda13bb2a349eac80255eefe890247b433be6c46b03a291f807d9",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/82c4d167-8604-4714-9a95-a0dbeeb68d22?w=710&cf_fit=scale-down&q=85&format=auto&s=9a210abf68ff7d43185087fcd2424d17c56330aca67e4812cf72907b6628143e",
+    "urlDemo": ""
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "real-estate-agent",
+    "name": "Uven - Real Estate Mobile Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/b21c1f78-df03-4e72-b61a-bea44b52e06a?w=2038&cf_fit=scale-down&q=85&format=auto&s=a389885501075ec9a3d938471f9a823dfd8af02016ea939cf5630822216b356b",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/b21c1f78-df03-4e72-b61a-bea44b52e06a?w=710&cf_fit=scale-down&q=85&format=auto&s=c18f866a14e6ff58ab902aec5c171f9348b5b1d5c0396115ec6d564e71f8f054",
+    "urlDemo": "https://astylers.com/uven/demo/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "real-estate-agent",
+    "name": "Towntor - Next.js Real Estate Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/58e6d1e3-5cfa-433a-af7e-daafdbac3fce?w=2038&cf_fit=scale-down&q=85&format=auto&s=ab0a4cfcd38b3b744dd606a3f64a910fcd6d5c4c49ad06e25b3d32b84582c216",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/58e6d1e3-5cfa-433a-af7e-daafdbac3fce?w=710&cf_fit=scale-down&q=85&format=auto&s=8275edad19300492f97c0e529947e0524eb81d0bd9a12bdc219ab8d35157a0a4",
+    "urlDemo": "https://shreethemes.in/towntor_next/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "real-estate-agent",
+    "name": "Realar - Real Estate Apartment Complex",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/e401898a-b8c5-474d-a843-7a1a3679ccc0?w=2038&cf_fit=scale-down&q=85&format=auto&s=9241e689a58d6fd9ee47c42d1f6dd31b1b7685fc5139e50ae8cb13e3c4d2f4ad",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/e401898a-b8c5-474d-a843-7a1a3679ccc0?w=710&cf_fit=scale-down&q=85&format=auto&s=19c4a63d8fcf3799226593f4b1c2227b4e85fd9a2d620527f76b2042151a7974",
+    "urlDemo": "https://html.themeholy.com/realar/demo/index.html"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "real-estate-agent",
+    "name": "Palace - Real Estate Property Rental",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/ee1b495a-1c21-4ce6-bdb9-70be0d8dee2a?w=710&cf_fit=scale-down&q=85&format=auto&s=2416c258c38a6da7f59e31ebca418059ea1f81a0e751713b77b24774d1480804",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/ee1b495a-1c21-4ce6-bdb9-70be0d8dee2a?w=2038&cf_fit=scale-down&q=85&format=auto&s=a529b77bd6780edfaec0016457fdada5e972357ef6222c5ddd529fe36f253d65",
+    "urlDemo": "https://demo.themeim.com/html/palace/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "real-estate-agent",
+    "name": "Quarter - Real Estate React NextJS",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/4d25ecaa-b7dd-40e1-b4e3-e65e8c42b2a8?w=2038&cf_fit=scale-down&q=85&format=auto&s=1a987f2999f6ac762e286ca6b3cb94cf5415bcaa47ceb657dc366416a188835e",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/4d25ecaa-b7dd-40e1-b4e3-e65e8c42b2a8?w=710&cf_fit=scale-down&q=85&format=auto&s=12c5610bafee03d46d549aa151baa3df057edabe3a60e0a9ec8d1d46acb05fac",
+    "urlDemo": "https://tunatheme.com/tf/nextjs/quarter/preview/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "real-estate-agent",
+    "name": "Rethouse - Real Estate HTML",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/d735a2a6-252a-44bd-b8fe-1e21a1801b81?w=2038&cf_fit=scale-down&q=85&format=auto&s=b39e28c4336e4421d138b8a9d32cca1a82cb34e2a7350ab31f01714a189e6c29",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/d735a2a6-252a-44bd-b8fe-1e21a1801b81?w=710&cf_fit=scale-down&q=85&format=auto&s=d30ddeeec6148c63abc5c4f0253f51ada7d060e4b177ff92622be1700afe23fc",
+    "urlDemo": "https://wallsproperty.netlify.app/homepage-v1"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "real-estate-agent",
+    "name": "Condio - Real Estate Landing Page",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/a8a12081-78b9-46f2-91de-18c1f84171f4?w=2038&cf_fit=scale-down&q=85&format=auto&s=39cbac4b29ae0f933a39cfd8fc562ae776d3f74e99f7b276b19bcacfa85362c9",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/a8a12081-78b9-46f2-91de-18c1f84171f4?w=710&cf_fit=scale-down&q=85&format=auto&s=3a947f12db11e454bf183e3e212468fda3e2592019a7dc491fae8941ee995d8d",
+    "urlDemo": "http://www.themestarz.net/html/condio/index-fixed.html"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "real-estate-agent",
+    "name": "Sweethome - Real Estate HTML Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/60d8e4fe-de97-45c1-9810-afa719a24777?w=2038&cf_fit=scale-down&q=85&format=auto&s=a979470d38d3a12d40c9c58033272562a885a5c3d4f9f6d1f169463f6d734f44",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/60d8e4fe-de97-45c1-9810-afa719a24777?w=710&cf_fit=scale-down&q=85&format=auto&s=fcbc860013f9f668bb8e3136a1d5fc668f2040fc1f5eb1edd968b6fb04e54251",
+    "urlDemo": "https://demoxml.com/html/sweethome/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "spa-and-beauty-salon",
+    "name": "Kindspa - Spa and Beauty Salon",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/0438aae8-81d4-4ce4-ab10-34e10603c8e8?w=710&cf_fit=scale-down&q=85&format=auto&s=303a354d2767e3002ce4b5c3c3fee60d8c83cf20472e794454174ec84f8d5a6e",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/0438aae8-81d4-4ce4-ab10-34e10603c8e8?w=2038&cf_fit=scale-down&q=85&format=auto&s=4b2d8ed516dfa407c26f9c03eaa77cb4c6a9fbef778077e014499087808e7c16",
+    "urlDemo": "https://wphix.com/template/kindspa-prv/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "spa-and-beauty-salon",
+    "name": "Spa - Beauty Salon and Spa",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/f5c3bd02-40cc-4b5b-af95-8985103c09a0?w=2038&cf_fit=scale-down&q=85&format=auto&s=c06395167b7dae1dd6acd3d28110c5367a7e89fe3c1a6594721894c72e795f49",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/f5c3bd02-40cc-4b5b-af95-8985103c09a0?w=710&cf_fit=scale-down&q=85&format=auto&s=0999569bc8ccb1fbfe5e13b319d1a2ec025bd17c0635fc76e4fc10da48b9f2e3",
+    "urlDemo": "https://thewebmax.org/spa/index-5.html"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "spa-and-beauty-salon",
+    "name": "Lemon - Spa and Beauty Responsive",
+    "image1": "https://elements-resized.envatousercontent.com/elements-preview-images/bbc91908-149c-40d9-bcd9-a7b393e91b88?w=1370&cf_fit=scale-down&q=85&format=auto&s=23553240c2abc50d9e1b1d8e960e5ba8c23f773ecb2994240cee542049ab140e",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/c29fa354-7ca1-4979-8a84-860054bb016c?w=710&cf_fit=scale-down&q=85&format=auto&s=3eb8cc09791e1baa895b87043bd87b9865630e68edf0c28e82c96089713334d3",
+    "urlDemo": "https://www.websroad.com/lemon/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "spa-and-beauty-salon",
+    "name": "Brancy - Cosmetic & Beauty Salon",
+    "image1": "https://elements-resized.envatousercontent.com/elements-preview-images/be063641-8d86-4654-b61c-058a89a7a9e6?w=1370&cf_fit=scale-down&q=85&format=auto&s=3ec38e27ac1bd31089ce1ba071c09fdd0e53ba75eefd0f4a035a9f76f6cfdb1c",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/1036a719-16c3-4374-861f-8e58f2a6a717?w=710&cf_fit=scale-down&q=85&format=auto&s=7886faacc4a6eb764daade2922194a8fbaa526d337a9d002dfcdda23b8a6dab1",
+    "urlDemo": "https://template.hasthemes.com/brancy/tf.html?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "spa-and-beauty-salon",
+    "name": "Wellnez - Spa Beauty Wellness Salon",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/16f336e2-4e3e-405a-9532-0921b6758697?w=2038&cf_fit=scale-down&q=85&format=auto&s=2491ccb0fbdac08e6ff7bc167011493b09b2456a4902428ffcb683ea9ea07d6e",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/16f336e2-4e3e-405a-9532-0921b6758697?w=710&cf_fit=scale-down&q=85&format=auto&s=2e1a89a54e45541f53600861d39c364cae39bab37b9a9bc6e2d93a83d2e296f9",
+    "urlDemo": "https://html.vecurosoft.com/wellnez/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "spa-and-beauty-salon",
+    "name": "Saloni - Spa and Salon HTML Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/4685c821-dc4f-4d0a-97c8-18b6325e5432?w=2038&cf_fit=scale-down&q=85&format=auto&s=611599464f9dd85bb14e268a795169dd8f08d00591b707d79741da6bec120b43",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/4685c821-dc4f-4d0a-97c8-18b6325e5432?w=710&cf_fit=scale-down&q=85&format=auto&s=e57bc568a2d5c025af947f86401067f2d31517d04a235ccfc3310067f3a3de56",
+    "urlDemo": "https://thewebmax.org/saloni-preview/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "spa-and-beauty-salon",
+    "name": "SpaMagic - Beauty Spa Salon Wellness Center",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/81cc1d1c-2a49-478c-952e-675e47da9962?w=2038&cf_fit=scale-down&q=85&format=auto&s=68d9024df2d7fe2e9b08d9e0e4338a1aedcb20ea37f514ba0bf9c2d2fa1fe393",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/81cc1d1c-2a49-478c-952e-675e47da9962?w=710&cf_fit=scale-down&q=85&format=auto&s=a6606fdd08745e072321bc951d408c6df76da1dac9eb16c633bda9b5ea2b5da1",
+    "urlDemo": "https://jthemes.net/themes/html/spamagic/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "spa-and-beauty-salon",
+    "name": "QEEN-Beauty Fashion Blogger",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/ec11806f-cf7b-431a-b37a-2cbf5a350804?w=2038&cf_fit=scale-down&q=85&format=auto&s=2a719900325293fd67579a14b2fa95aaabbd266ce62d7c5f76a28d01be4eb9d1",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/ec11806f-cf7b-431a-b37a-2cbf5a350804?w=710&cf_fit=scale-down&q=85&format=auto&s=e7ae0bda65b0a95ce89fd4a986ef672e4e99132d22b4110735c75afa854f7c22",
+    "urlDemo": "https://themebuz.com/demo/qeen/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "spa-and-beauty-salon",
+    "name": "BeautYou",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/5e2fd8f7-c1a3-4c59-ad90-57153fbd4906?w=2038&cf_fit=scale-down&q=85&format=auto&s=f6b53a059959b3fbd31ee3286f484fc59c221751c3c275f5fd30051dd776ed7b",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/5e2fd8f7-c1a3-4c59-ad90-57153fbd4906?w=710&cf_fit=scale-down&q=85&format=auto&s=ab488acc86e93fe6e3916beec7221cdb75aa1e8aafaa019b2f3b0020dbb64880",
+    "urlDemo": "https://beautyou-html.axiomthemes.com/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "spa-and-beauty-salon",
+    "name": "Neo Cut - HTML5, Responsive Hair Salon",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/3bd5f505-f5d5-4011-8d57-51901eab1e3b?w=2038&cf_fit=scale-down&q=85&format=auto&s=832bc3eb389c7f7eeb177d995ecd34cd6a54336c224673b4d7d7b8596d237712",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/3bd5f505-f5d5-4011-8d57-51901eab1e3b?w=710&cf_fit=scale-down&q=85&format=auto&s=f86f4382cf00d351a84190488315733f2c5339dff21092013a4cc30f85798579",
+    "urlDemo": "https://buddhathemes.com/html/neocut/index.html?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "spa-and-beauty-salon",
+    "name": "Haarino - Hair Beauty & Makeup Salon",
+    "image1": "https://elements-resized.envatousercontent.com/elements-preview-images/b819bd78-7f85-415f-a5bd-157abcae313a?w=1370&cf_fit=scale-down&q=85&format=auto&s=9e3af82b2c3ef2582d85f6eec73414d6afdbc9b252fa8c25384d99ff89020639",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/96074bd6-6223-4b26-a5fe-8cb7f2217884?w=710&cf_fit=scale-down&q=85&format=auto&s=04a77dfed6d499d232210eb311ed7da31ed1377f89e6555a18563c18270fb431",
+    "urlDemo": "https://html.vecurosoft.com/haarino/demo/about.html"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "landing-page-convert-customer-from-ads",
+    "name": "Skwirel - High Conversion Marketing Landing Page",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/30f89029-3aba-4268-9332-f6eeb7f67f51?w=2038&cf_fit=scale-down&q=85&format=auto&s=a0ec30acfd143d6623046eaaebaa04c9696f641bc6c3e34491a1ebfc54b61176",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/5096146d-75a9-4364-aeff-6399d924a227?w=710&cf_fit=scale-down&q=85&format=auto&s=fd47efaf72bf02ccf3f130455ad6ca38d5990d3e7c91e48ed755add1af26cdc7",
+    "urlDemo": "https://tanshcreative.com/skwirel-lp-preview/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "landing-page-convert-customer-from-ads",
+    "name": "Convert - Multipurpose CCD Landing Page",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/b555e931-3baa-4b3f-86d6-d0c60667dcf6?w=2038&cf_fit=scale-down&q=85&format=auto&s=0a74ff17ab5b353229627a3becdbbac1297a88a8c685e7d642ab2ea62293ecac",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/b555e931-3baa-4b3f-86d6-d0c60667dcf6?w=710&cf_fit=scale-down&q=85&format=auto&s=f4111a94e8e638d4280c676e547b278b55a5870c67a897958e65fcf64d591173",
+    "urlDemo": "http://www.shegy.nazwa.pl/themeforest/convert/index_single_light.html?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "landing-page-convert-customer-from-ads",
+    "name": "Estica — Real Estate Landing Page Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/5be75543-ab88-4ba0-9c9b-db9c57e2eb6b?w=2038&cf_fit=scale-down&q=85&format=auto&s=5817abc4f53b03201bad4fea5924ee41f397acb25831e1f32285f852f47c4144",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/5be75543-ab88-4ba0-9c9b-db9c57e2eb6b?w=710&cf_fit=scale-down&q=85&format=auto&s=324c1020c932415147dd1c0fbc0493b339ad5b2a6a22b05f374d63cb050f6b7d",
+    "urlDemo": "https://demo.tutsflow.com/estica/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "landing-page-convert-customer-from-ads",
+    "name": "Sabil - Multipurpose Landing Page Templates",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/21d1e146-34db-47f4-8387-50063e60e3f6?w=2038&cf_fit=scale-down&q=85&format=auto&s=08d007b636d930922f8a81b511730045823b912c380aee4af082847f89b2a804",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/21d1e146-34db-47f4-8387-50063e60e3f6?w=710&cf_fit=scale-down&q=85&format=auto&s=6fda12ff06fe6c6d219d7014e2e74a45592c494ae865b1302843be6f7dd02bbf",
+    "urlDemo": "https://demo.tutsflow.com/sabil/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "landing-page-convert-customer-from-ads",
+    "name": "StartUps - Startup Landing Page",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/2623d920-1e95-40b1-af72-7de757ee9e1a?w=2038&cf_fit=scale-down&q=85&format=auto&s=e6f3466bd66e7fec7d90d95bfea547e5305a9fc829a6dd6eb980db7a2cb58b99",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/2623d920-1e95-40b1-af72-7de757ee9e1a?w=710&cf_fit=scale-down&q=85&format=auto&s=775860288258039f1612fe2e492eed072e5e4c3be2a4c3a78cf8408c85a5c1f6",
+    "urlDemo": "http://themestarz.net/html/startups/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "landing-page-convert-customer-from-ads",
+    "name": "Estica — Real Estate Landing Page Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/5be75543-ab88-4ba0-9c9b-db9c57e2eb6b?w=2038&cf_fit=scale-down&q=85&format=auto&s=5817abc4f53b03201bad4fea5924ee41f397acb25831e1f32285f852f47c4144",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/5be75543-ab88-4ba0-9c9b-db9c57e2eb6b?w=710&cf_fit=scale-down&q=85&format=auto&s=324c1020c932415147dd1c0fbc0493b339ad5b2a6a22b05f374d63cb050f6b7d",
+    "urlDemo": "https://demo.tutsflow.com/estica/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "landing-page-convert-customer-from-ads",
+    "name": "Vero - Marketing Landing Page Html Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/8ca5b96d-0206-4cd0-9628-8ad3215c950a?w=2038&cf_fit=scale-down&q=85&format=auto&s=fa1ec34f3453938b3f3cc46bf374a0ce82619e64851670edb320fec66cd7f154",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/8ca5b96d-0206-4cd0-9628-8ad3215c950a?w=710&cf_fit=scale-down&q=85&format=auto&s=3a8e02f5e154e754609ecfe779b2530e6aa7d2b180e15be64ad5eacd5ab25226",
+    "urlDemo": "https://landing.zytheme.com/vero/landing-click-img.html"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "landing-page-convert-customer-from-ads",
+    "name": "Arcon Studio - Marketing Landing Page",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/ed63fd57-21ab-45df-be5d-c6b38fe8c70d?w=2038&cf_fit=scale-down&q=85&format=auto&s=59cec6b6cf3200fb0063bd7689f6c3a872084c5978e330d05e4637a397612a37",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/ed63fd57-21ab-45df-be5d-c6b38fe8c70d?w=710&cf_fit=scale-down&q=85&format=auto&s=4bd89b24a3ccbfcfe4ff014283892f83b088c403d2402b475c1e8ef35f06f507",
+    "urlDemo": "http://www.incognitothemes.com/arcon-landing/demos.html?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "landing-page-convert-customer-from-ads",
+    "name": "Emanate - Startup Landing Page",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/3109ae25-f16a-49c3-9574-7d7243b4ac55?w=2038&cf_fit=scale-down&q=85&format=auto&s=e6c6035ec9c40b65c53297e895bb4039e7f05c02af9f3a895cc986eab2030a88",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/3109ae25-f16a-49c3-9574-7d7243b4ac55?w=710&cf_fit=scale-down&q=85&format=auto&s=cc7ea445bc762dd834ccf81116916b64265be645c287b6a796f6e8044816f442",
+    "urlDemo": "https://preview.uiuxassets.com/emanate/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "landing-page-convert-customer-from-ads",
+    "name": "Upwind - Svelte Landing Page Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/8f94069d-0b60-43b9-85ee-3bf420e3767e?w=2038&cf_fit=scale-down&q=85&format=auto&s=7198cbd3e5f45b4a6adb9c975061110bc51262dbb6333187fe3825d3cb59219b",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/8f94069d-0b60-43b9-85ee-3bf420e3767e?w=710&cf_fit=scale-down&q=85&format=auto&s=74de6631a34d07739c108e9051efb341d2d38cc9e5b5e16a1b7407d40f206da0",
+    "urlDemo": "https://upwind-shreethemes.vercel.app/index-two"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "landing-page-convert-customer-from-ads",
+    "name": "Evencare - Medical Landing Page HTML Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/1c12d945-0a9c-4af5-9a72-1f955538a0d6?w=2038&cf_fit=scale-down&q=85&format=auto&s=064dd342c3f3acfd19088b856370fda7fde7ee7b30cf8bff1d116437cde05588",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/1c12d945-0a9c-4af5-9a72-1f955538a0d6?w=710&cf_fit=scale-down&q=85&format=auto&s=dfdac0158fd2aec7d50189f92c9dec090fddde21d51ba4ecc83b139ddd69cde0",
+    "urlDemo": "https://elements-resized.envatousercontent.com/elements-cover-images/1c12d945-0a9c-4af5-9a72-1f955538a0d6?w=2038&cf_fit=scale-down&q=85&format=auto&s=064dd342c3f3acfd19088b856370fda7fde7ee7b30cf8bff1d116437cde05588"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "restaurant-&-coffee-shop",
+    "name": "Steak In - Restaurant & Cafe",
+    "image1": "https://elements-resized.envatousercontent.com/elements-preview-images/8844732c-cac8-4ae7-8a0e-a9b7c4f87b37?w=1370&cf_fit=scale-down&q=85&format=auto&s=c5851af9d9ae629a10c624922894634e0433dcb5e1fbd923da425162089a0c62",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/03466e70-2daf-4cc7-bbe3-0f1b8ccf8624?w=710&cf_fit=scale-down&q=85&format=auto&s=64606cbae5ed85e89fc245217cd5d35a79a4117a43152e36ced608fbeb98718d",
+    "urlDemo": "https://7oroof.com/demos/steakin/index.html"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "restaurant-&-coffee-shop",
+    "name": "Coffee Shop Cafe Restaurant HTML",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/11914093-5f83-4b77-a17f-a96fd392edd4?w=2038&cf_fit=scale-down&q=85&format=auto&s=0b908a21d5596588d807a1ac9433108050623cc27e10e3bdfa4a136874f73adb",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/11914093-5f83-4b77-a17f-a96fd392edd4?w=710&cf_fit=scale-down&q=85&format=auto&s=d5dd900a8674f817c92e6ad87641e5e417f3c1a15c53ed8047cb68cbd15396f9",
+    "urlDemo": ""
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "restaurant-&-coffee-shop",
+    "name": "Koffie - Coffee Shop HTML Landing Page",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/27266c64-0430-4578-b965-c81623c4c318?w=2038&cf_fit=scale-down&q=85&format=auto&s=c7b426be2bb159c0bbbf16ec66df6a5ef32221e34bb76b047095c1f6e4f11c69",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/27266c64-0430-4578-b965-c81623c4c318?w=710&cf_fit=scale-down&q=85&format=auto&s=3ebce0ea628dce7a322e24ad4429df1ba7dcde2edf987bb88802bbbd099c3668",
+    "urlDemo": "https://themeatelier.net/site-templates/koffie/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "restaurant-&-coffee-shop",
+    "name": "Elroyale - Restaurant & Cafe HTML5",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/4ffaacc7-8399-4be8-9856-64d6a6ca39b7?w=2038&cf_fit=scale-down&q=85&format=auto&s=f21e43aa488bc9b7737d7928d8d6066f963ee12dd1fcc618026b27914985191b",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/4ffaacc7-8399-4be8-9856-64d6a6ca39b7?w=710&cf_fit=scale-down&q=85&format=auto&s=7a0b3aca975ae84fe0508933ad7c668b6f0e443275d00beb6cbde1402d05bce2",
+    "urlDemo": "https://elements-resized.envatousercontent.com/elements-cover-images/4ffaacc7-8399-4be8-9856-64d6a6ca39b7?w=2038&cf_fit=scale-down&q=85&format=auto&s=f21e43aa488bc9b7737d7928d8d6066f963ee12dd1fcc618026b27914985191b"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "restaurant-&-coffee-shop",
+    "name": "Dina - Dining Restaurant Cafe Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-preview-images/9be7a5bd-f579-4ad5-9f9f-d55e8c401746?w=1370&cf_fit=scale-down&q=85&format=auto&s=d90e095e86bfc46ff7640897922ee31cb2acbd574721b0ff899df6c69f07127c",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/52789c4c-283d-485a-ab2e-da5bf2743ed6?w=710&cf_fit=scale-down&q=85&format=auto&s=f5db380863d61792038a4f4ba0fb849c8bf5dbb9d57d7416f1ca8f43755566b8",
+    "urlDemo": "https://matchthemes.com/demohtml/dina/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "restaurant-&-coffee-shop",
+    "name": "Wellfood - Fast Food Restaurant HTML",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/5188faf3-c24a-46eb-896a-5604d168125e?w=2038&cf_fit=scale-down&q=85&format=auto&s=95c868ad9e297a3564cf6ec607dcfeb25dc720306929a840956ad5d5c69c5281",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/5188faf3-c24a-46eb-896a-5604d168125e?w=710&cf_fit=scale-down&q=85&format=auto&s=88635eb8d3bfb2ef592f54fbc7c63719a590edbd00b39cb55a47e05843ff1921",
+    "urlDemo": "https://webtendtheme.net/html/2024/wellfood/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "restaurant-&-coffee-shop",
+    "name": "Cafe and Restaurant Website Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-preview-images/55767d85-1cc7-4e06-b33c-dcc1147792a1?w=1370&cf_fit=scale-down&q=85&format=auto&s=85c63ffe7390daec2db6b31b3a676aec2b52bef4b3a0189a435cb5da8177e2a3",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/2cd852ad-0b2e-4e59-9b7c-4fed415947d2?w=710&cf_fit=scale-down&q=85&format=auto&s=a72d4abd85ccc8820d854d41c59ad62653590659cf994f51477dfdc8316e7be2",
+    "urlDemo": "https://html.merku.love/cafert/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "restaurant-&-coffee-shop",
+    "name": "Hot Coffee",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/817bb6aa-1f50-4376-98e5-ed249dad7b99?w=2038&cf_fit=scale-down&q=85&format=auto&s=4366d7157545c44265a4082e4bbd8a8817a91e4b2443ed43ae6617f3b19692c8",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/817bb6aa-1f50-4376-98e5-ed249dad7b99?w=710&cf_fit=scale-down&q=85&format=auto&s=0ae0433367c22d965953fc8fc66600416380282998f7e93fab857834098d2ab3",
+    "urlDemo": "https://hotcoffee-html.themerex.net/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "restaurant-&-coffee-shop",
+    "name": "Pizzan - Fast Food and Restaurant HTML Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/8a923f2c-c48a-4a24-8d9d-23400326b38f?w=2038&cf_fit=scale-down&q=85&format=auto&s=bbff573a0fef70481a25cb54b4c35384aab7e62bb332b2bf5ad5c7f6ca4da685",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/8a923f2c-c48a-4a24-8d9d-23400326b38f?w=710&cf_fit=scale-down&q=85&format=auto&s=a67458e859216dfb967934a7148ea4f41a0da414304164e17d6029733e095940",
+    "urlDemo": "https://themeholy.com/html/pizzan/demo/home-restaurant.html"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "restaurant-&-coffee-shop",
+    "name": "Foodio - Fast Food & Restaurant HTML",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/b72eba85-547b-47da-b449-0c5d847dac3b?w=2038&cf_fit=scale-down&q=85&format=auto&s=4683994c848714c57a10349a0de72dfac875fe8a99a7242f15bb6359e6c650e9",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/b72eba85-547b-47da-b449-0c5d847dac3b?w=710&cf_fit=scale-down&q=85&format=auto&s=16f9366d7d5664f17364adfcd6030b515e718ceabec60872e80be0637087eca3",
+    "urlDemo": "https://winsfolio.net/html/foodio/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "restaurant-&-coffee-shop",
+    "name": "Starbelly - Restaurant & Cafe",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/0b34927a-394d-4143-90eb-0507e877b650?w=2038&cf_fit=scale-down&q=85&format=auto&s=d3e0c108aa47a38219b0f62c28add6f393411f6271b92cde3575219f267ed54b",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/0b34927a-394d-4143-90eb-0507e877b650?w=710&cf_fit=scale-down&q=85&format=auto&s=9508310b162cbcef69483d3280046d5992dcf09c987b1d34c4eca0b65135103b",
+    "urlDemo": "https://miller.bslthemes.com/starbelly-demo/home-1.html"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "wedding",
+    "name": "My Wedding - Wedding Invitation Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/38b9d6cf-9d96-4b1d-9443-54e1fe079e3a?w=2038&cf_fit=scale-down&q=85&format=auto&s=2b5eb93334b7da81dee740df10d0e223edbf380552f4b7f3e5e6f062450c00fd",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/38b9d6cf-9d96-4b1d-9443-54e1fe079e3a?w=710&cf_fit=scale-down&q=85&format=auto&s=93f4888dd6fcbbb09b822a560ed632c748149f7564485c0047bc42ec6e4a970f",
+    "urlDemo": "https://kamleshyadav.com/html/wedding/html/bootstrap3/template2/index.html"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "wedding",
+    "name": "Wedding Event - Wedding Invitation HTML Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/1fa9320c-d2c8-4047-b7fd-ad1dc1c95aba?w=2038&cf_fit=scale-down&q=85&format=auto&s=5e4b40271a19e2f4d24260c235c106aac221bec414d59afdabb44fbadb74d32a",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/1fa9320c-d2c8-4047-b7fd-ad1dc1c95aba?w=710&cf_fit=scale-down&q=85&format=auto&s=3dcd153bf79df6931f68a506f0057922de927504a8c15c17b21a304205ea3e2c",
+    "urlDemo": "https://www.webstrot.com/html/wedding/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "wedding",
+    "name": "Wedding Event Invite HTML5",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/2bccb6e3-9e19-4356-bd32-4d21eca90ef7?w=2038&cf_fit=scale-down&q=85&format=auto&s=a88c2960b9cf57acb3dbad85b21b52814ef3c27c2817b23dee346ca6489ec556",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/2bccb6e3-9e19-4356-bd32-4d21eca90ef7?w=710&cf_fit=scale-down&q=85&format=auto&s=9512447c00fabd12f2757b3020831976dfe1fe6367fd35187304975cacc0d840",
+    "urlDemo": "https://wedesignthemes.com/html/wedding-new/index.html?storefront=envato-elements#home"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "wedding",
+    "name": "Wedding RSVP Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/594f0619-edc8-4165-8b24-a37cd5d5b578?w=2038&cf_fit=scale-down&q=85&format=auto&s=c55e53c716dbe8391261be77a361fa41795ab803916ea1c4098b3599ba493b5b",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/594f0619-edc8-4165-8b24-a37cd5d5b578?w=710&cf_fit=scale-down&q=85&format=auto&s=f8934fc0efb4028c0807e90ba67cf30b08bcc1b949d60ff5749ff7c202da232d",
+    "urlDemo": "https://lmpixels.com/demo/ourlove/our-love-responsive-wedding-template/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "wedding",
+    "name": "Foxewedding - Beautiful Wedding Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/2397c8e3-35a2-4240-bc1d-c73d953b29f0?w=2038&cf_fit=scale-down&q=85&format=auto&s=11c997d3c7137e836fa98f7baf09c27dbed1ec4b5ac648f33a7616d36b499a88",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/2397c8e3-35a2-4240-bc1d-c73d953b29f0?w=710&cf_fit=scale-down&q=85&format=auto&s=12dd7e87c4a933e1c23c0b5d744d57ee6be028feb9d06a13fe388170ba4cc104",
+    "urlDemo": "https://mutationmedia.net/FOXEWEDDING/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "wedding",
+    "name": "True Love - Bootstrap Wedding Templat",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/c46630d4-04ed-4f05-8020-d33de7d7f75d?w=2038&cf_fit=scale-down&q=85&format=auto&s=fdddd595aa13b1b4a95afe9f7f2284a104b47df08c3974d91110093e0708a1b3",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/c46630d4-04ed-4f05-8020-d33de7d7f75d?w=710&cf_fit=scale-down&q=85&format=auto&s=843f487f5dd5f7733c1c45b730ac01fa1e3c4f21f35ef76fbd467a6d83e52df2",
+    "urlDemo": "https://html.themexriver.com/true-love/style-1/index.html"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "online-store",
+    "name": "E-come | Electronics Store HTML Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/381add1f-be8f-47ee-a121-24609fe8bf46?w=2038&cf_fit=scale-down&q=85&format=auto&s=be64b3e86e381a54e412a9aecf2f6cea82a1c6111e4d79a09bfed5066b16ffdc",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/381add1f-be8f-47ee-a121-24609fe8bf46?w=710&cf_fit=scale-down&q=85&format=auto&s=fde62b734893619cb4e9c50cd10ca79cff2bab1019dae3b316f1d8f1c418af0c",
+    "urlDemo": "https://landing.engotheme.com/html/ecome/demo/home1.html"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "online-store",
+    "name": "Vikan - Organic Food Store HTML",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/0f8e6f06-3128-4189-a140-65052f712a14?w=2038&cf_fit=scale-down&q=85&format=auto&s=fa7f370960482679e6dcf23e9993fb3ffa5c7de748ca3ecbe92d0c84ea3c77d3",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/0f8e6f06-3128-4189-a140-65052f712a14?w=710&cf_fit=scale-down&q=85&format=auto&s=25eb9bd17f4bc0ff9a922156ac471cb256ffd23d1e477967dcc2d29931ca127e",
+    "urlDemo": "https://themesflat.co/html/vikanhtml/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "online-store",
+    "name": "Toyqo - Kids Store Bootstrap 5 Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/13783faa-b1c3-4f11-bcfd-27125235eb68?w=2038&cf_fit=scale-down&q=85&format=auto&s=67b74d526cd89131033418f325c93e19c63e3b052ba84fb33ec04713dcf2ef90",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/13783faa-b1c3-4f11-bcfd-27125235eb68?w=710&cf_fit=scale-down&q=85&format=auto&s=1c861a6ed55be8c869abbdebf541d9b1750f3df9dabbd4321bc97d0ea238a18f",
+    "urlDemo": "https://template.hasthemes.com/toyqo/toyqo/index.html"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "online-store",
+    "name": "Bloxic - Furniture Store HTML",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/05333907-6a1c-457b-a2a8-245c26f36294?w=2038&cf_fit=scale-down&q=85&format=auto&s=58f569cacbfe101918678bb08c2a5d13aa60c3b80ffce5053390f22f2d634e6d",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/05333907-6a1c-457b-a2a8-245c26f36294?w=710&cf_fit=scale-down&q=85&format=auto&s=b82fa9fee6d1910138619b1693904600bdf818c2784012afb3aa04dbc5b364b0",
+    "urlDemo": "https://html.themexriver.com/bloxic/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "online-store",
+    "name": "Beck – Furniture Store HTML",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/0825dcf6-c260-457d-b773-43df2cd60c0a?w=2038&cf_fit=scale-down&q=85&format=auto&s=6809cc737e5da13d2f0c5d6b66f13855858324c7a28ff12cc32075721bc24cfc",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/0825dcf6-c260-457d-b773-43df2cd60c0a?w=710&cf_fit=scale-down&q=85&format=auto&s=212c4b87df6fdea59115620675bd702b7e188111af4114f2e5a52fa880ce28b8",
+    "urlDemo": "https://template.hasthemes.com/beck/beck/index.html"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "online-store",
+    "name": "VamShop Online Shopping Cart eCommerce Site",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/f7cffe72-8c4f-49e5-b201-aa4002f4b5f0?w=2038&cf_fit=scale-down&q=85&format=auto&s=5bbd75924a97d43191a11d2ffc98c8f4074e96308b5bfed0e638c54ec1f6ab16",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/f7cffe72-8c4f-49e5-b201-aa4002f4b5f0?w=710&cf_fit=scale-down&q=85&format=auto&s=c10ed3a475f499905431e351e5c5ea9f56d2301107e1259e01e06d6d3ede646d",
+    "urlDemo": "https://demo2.vamshop.com/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "online-store",
+    "name": "NeonCart - Multipurpose Ecommerce Shop Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/e4319063-17b9-4af7-addd-c4bf449b269b?w=2038&cf_fit=scale-down&q=85&format=auto&s=e309aa66d9b277d1c7b421913a4fe24308007f8e80f5f5d45621caeaa5fa8915",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/e4319063-17b9-4af7-addd-c4bf449b269b?w=710&cf_fit=scale-down&q=85&format=auto&s=6c9c8a170ef8cb7e42bd4b6cf7e11c5d8923d45ce729c47013e83a0806e7c9ad",
+    "urlDemo": "https://jthemes.net/themes/html/neoncart/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "online-store",
+    "name": "Maxshop - Multipurpose eCommerce HTML Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/d381ef62-2d99-4e00-a50e-b4183a78ed8a?w=2038&cf_fit=scale-down&q=85&format=auto&s=4182479e0f4aebddcff2556f2cfa5dae9af1ae110850f68a86526b09c4269226",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/d381ef62-2d99-4e00-a50e-b4183a78ed8a?w=710&cf_fit=scale-down&q=85&format=auto&s=da78bfeeb0cebabf40dcab041cbe9ca1324632c0d0a3a84ce06883ea74cc772d",
+    "urlDemo": "https://demo.smartaddons.com/templates/html/maxshop/intro/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "online-store",
+    "name": "Shopus- bootstrap 5 html ecommerce",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/a8996807-e73c-4899-9ba4-ed064e268d6e?w=2038&cf_fit=scale-down&q=85&format=auto&s=b8256b820a2e5d7712376e42982e9bdf63c9d4e53920a0a81e91dd3cdd214e15",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/a8996807-e73c-4899-9ba4-ed064e268d6e?w=710&cf_fit=scale-down&q=85&format=auto&s=3cc0b334344c409686a2acc345d1a61463c1a758101197f8a9ac88cf0e2b6f62",
+    "urlDemo": "https://quomodothemes.website/html/shopus/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "online-store",
+    "name": "Juno",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/71fc8cc9-7f62-498e-be8c-3a005de130b5?w=2038&cf_fit=scale-down&q=85&format=auto&s=872aa2430ddafef0dd13463ea1469ac9eea365cf31a9b9352ebc4f8841b57120",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/71fc8cc9-7f62-498e-be8c-3a005de130b5?w=710&cf_fit=scale-down&q=85&format=auto&s=b509651410e2c6a727fb7b099b82e0b57757f2ba237f444b6c4d222825d3c0e8",
+    "urlDemo": "https://junotoys-html.themerex.net/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "online-store",
+    "name": "Vicodin - Medical eCommerce Bootstrap Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/5a37686c-bd54-4b65-8fcc-4ba192ac93a2?w=2038&cf_fit=scale-down&q=85&format=auto&s=952bef67b114c144cefacf2ed71e2c49c0c4b807a42ddcdbd1cd1ace35757814",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/5a37686c-bd54-4b65-8fcc-4ba192ac93a2?w=710&cf_fit=scale-down&q=85&format=auto&s=57ef00127562e0ffc326a9bdf3580abad39d79332f1136ce2f995fc92474a2fd",
+    "urlDemo": "https://tunatheme.com/tf/html/vicodin-preview/vicodin/index.html"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "online-store",
+    "name": "AutoParts - Equipments, Accessories",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/127de5a9-6b63-4af6-a01f-a1e08d751d50?w=2038&cf_fit=scale-down&q=85&format=auto&s=f0a60b7adee232e4a0ac51dacd144df3d4df590fcb318a388c62772c2fb7f56b",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/127de5a9-6b63-4af6-a01f-a1e08d751d50?w=710&cf_fit=scale-down&q=85&format=auto&s=bb7ed9c84c88d9cb5bf966d2a4aa5b55179d695307ef999ecee8f46be360b54d",
+    "urlDemo": "https://demo.smartaddons.com/templates/html/autoparts/home2.html"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "online-store",
+    "name": "FloSun - Flower Shop HTML5 Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/9483dc87-e5e0-4d25-8824-31cc2b9fa2e0?w=710&cf_fit=scale-down&q=85&format=auto&s=3283cabf7a347547173538cc459c6d11463031c4831f311d5c0e948feb3649a2",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/9483dc87-e5e0-4d25-8824-31cc2b9fa2e0?w=710&cf_fit=scale-down&q=85&format=auto&s=3283cabf7a347547173538cc459c6d11463031c4831f311d5c0e948feb3649a2",
+    "urlDemo": "https://template.hasthemes.com/flosun/flosun/shop.html"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "introduce-service-and-business",
+    "name": "Bixola - Business Service",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/4cd05bff-8e75-4969-acea-c158886b0e5f?w=2038&cf_fit=scale-down&q=85&format=auto&s=aa59df3e2bd17aacc0f1f2aee344f39bc3562603965bbb3825efc31608f309f9",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/4cd05bff-8e75-4969-acea-c158886b0e5f?w=710&cf_fit=scale-down&q=85&format=auto&s=d680ec00a07f43ef0ec72ff1ebc3eb5659dee1bdfe3832bfeb61902c986e2ef7",
+    "urlDemo": "https://bixola.vercel.app/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "introduce-service-and-business",
+    "name": "Brighton - Business Consulting Service Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/51d5a224-b566-48c5-922e-57574e1bc667?w=2038&cf_fit=scale-down&q=85&format=auto&s=cc0bee2d163a049774749c459e4c88cace9437513fbfffc652cfa15beb47f869",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/51d5a224-b566-48c5-922e-57574e1bc667?w=710&cf_fit=scale-down&q=85&format=auto&s=f28935c9bbfcec4337581b2251e813ae00c06707da064de5bb6d36b1f497c754",
+    "urlDemo": "https://st.ourhtmldemo.com/new/Brighton/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "introduce-service-and-business",
+    "name": "Oficial Business Support Services Landing Page",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/04b9a5bc-e20c-4347-9b80-d1de97262309?w=2038&cf_fit=scale-down&q=85&format=auto&s=c38f180ceaf993c71f35616b62f0f7b045ad04ea3f175ded9b7a751f4959ebc9",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/04b9a5bc-e20c-4347-9b80-d1de97262309?w=710&cf_fit=scale-down&q=85&format=auto&s=0e4029f90a14d2661350d52b4bf96e7ce0f60d2d6c7f19e2a00e2d2e20da5f45",
+    "urlDemo": "https://tanshcreative.com/oficial-lp-preview/oficial/index.html"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "introduce-service-and-business",
+    "name": "Cras - Car Repair & Auto Services HTML Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/3ff89833-75a6-41ec-8a3e-81e859cc7dc8?w=2038&cf_fit=scale-down&q=85&format=auto&s=15abdf761d125247363386402482ab2582bc3c89f17111639f4d87514276b7c0",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/3ff89833-75a6-41ec-8a3e-81e859cc7dc8?w=710&cf_fit=scale-down&q=85&format=auto&s=9bd5eae455a8d34402da99edeeffd366203727d7676ccdc1506d779d17973f3c",
+    "urlDemo": "https://cras-three.vercel.app/cras-main/index.html"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "introduce-service-and-business",
+    "name": "Logisk - Transport & Logistic Service Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/9a727473-4fc7-4ad3-9946-975ef9116b2a?w=2038&cf_fit=scale-down&q=85&format=auto&s=7424bc2b59f3e9dcabce209a29c990be7ae03d0f532a6fb7a9454c9605abe2ce",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/9a727473-4fc7-4ad3-9946-975ef9116b2a?w=710&cf_fit=scale-down&q=85&format=auto&s=92a431f972e69c9d180ef281d58cc263c025c0304439d1388ed66f79d01cb2e2",
+    "urlDemo": "https://wowtheme7.com/tf/logisk/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "introduce-service-and-business",
+    "name": "Terio - Digital Agency & IT Services Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/47547f41-275f-440c-b9e5-c3810ed7d5d7?w=2038&cf_fit=scale-down&q=85&format=auto&s=469548b5274bbd032b67f3bdaeb82d5165499615f1200ab82144073af3555ddc",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/47547f41-275f-440c-b9e5-c3810ed7d5d7?w=710&cf_fit=scale-down&q=85&format=auto&s=d14a67c0fac7b5381eb0c959c14081ca8c5fd2ad59d57da58963dfbafbf5cfd8",
+    "urlDemo": "https://bslthemes.com/html/terio/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "introduce-service-and-business",
+    "name": "Arkdin – Air Conditioning Services ReactJs Templat",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/0e7aba32-785c-4cb0-a334-4f0939fac93d?w=2038&cf_fit=scale-down&q=85&format=auto&s=68e26aae2a5b2f1677306ab734fb5b067802d6412e7e32831bba2d1151b8dee8",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/0e7aba32-785c-4cb0-a334-4f0939fac93d?w=710&cf_fit=scale-down&q=85&format=auto&s=29d28181a5110332257cbc8e658a6a00974517a9bd8e9f1ffcf22daaa3546ba7",
+    "urlDemo": "https://arkdin-react.vercel.app/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "introduce-service-and-business",
+    "name": "Blussom Insurance Service Landing Page Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/16f495e4-5ce3-477a-9f0d-01853016c1be?w=2038&cf_fit=scale-down&q=85&format=auto&s=c5878f5ff0bf9e24b4917e4fe1f14aeba0fcd7a01eecba6266012f766d5d6eebb",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/16f495e4-5ce3-477a-9f0d-01853016c1be?w=710&cf_fit=scale-down&q=85&format=auto&s=fc681f6732b00230fd3f7139eac15e267663b94559db2561670d8367348b8b86",
+    "urlDemo": "https://tanshcreative.com/blussom-lp-preview/index.html"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "introduce-service-and-business",
+    "name": "Welbim - Welding Services HTML Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/840c049b-89ec-43ea-93c2-892bc4135c5f?w=2038&cf_fit=scale-down&q=85&format=auto&s=9c808f76b74af5817a281b73c32bdf8225e11cf0ef14f317fe9f6b70bfce7663",
+    "image2": "",
+    "urlDemo": "https://html.tonatheme.com/2022/welbim/?storefront=envato-elementshttps://elements-resized.envatousercontent.com/elements-cover-images/840c049b-89ec-43ea-93c2-892bc4135c5f?w=710&cf_fit=scale-down&q=85&format=auto&s=42ae3f0033d781918e17bf304283bac8399c91ec9c41728be325cea5751f2d62"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "introduce-service-and-business",
+    "name": "Services - Repair Responsive HTML 5 Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/d84d7b94-3e2c-4a40-8e0c-5df044f48015?w=2038&cf_fit=scale-down&q=85&format=auto&s=2eeb125233798f906d7289ebbb5702056eae1094f1f12d108b45c5250155feb0",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/d84d7b94-3e2c-4a40-8e0c-5df044f48015?w=710&cf_fit=scale-down&q=85&format=auto&s=a096f75f670ca9d9ed07c1aa61073b1fd2db1afc3f4fb3b1b689a5482858af13",
+    "urlDemo": "https://team90degree.com/html/tf/services-preview/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "lawyer-&-justice---attorney-html-template",
+    "name": "",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/88bda7bc-6768-455c-a0df-eb52f718463b?w=2038&cf_fit=scale-down&q=85&format=auto&s=4c16ebc347e8c09363ef37cfbbbb8b6137d4768618d1427735b46165858c6c96",
+    "image2": "",
+    "urlDemo": "https://st.ourhtmldemo.com/template/laywer-justice/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "medical-service",
+    "name": "Neonal - Medical Service Bootstrap 5",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/a8a10b20-5ec7-4b68-b74c-4cf504af24e4?w=2038&cf_fit=scale-down&q=85&format=auto&s=410e5842c42fb19b955e36bfae6c76819027115d26d3b0ac38e7e5ad6a6c5fa3",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/a8a10b20-5ec7-4b68-b74c-4cf504af24e4?w=710&cf_fit=scale-down&q=85&format=auto&s=37d26af23149f9e53e82ac050c0be89c10052c3b21377af4b8dcf504e1b54137",
+    "urlDemo": "https://htmldemo.net/neonal/neonal/index.html"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "medical-service",
+    "name": "Mediax - Health & Medical Service",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/576a9fd1-1b0b-4aae-afc0-69afb509aa48?w=2038&cf_fit=scale-down&q=85&format=auto&s=2a951560ac587f2bd9c1040be852fca4f06768b15127cacc8546bf88399a0774",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/576a9fd1-1b0b-4aae-afc0-69afb509aa48?w=710&cf_fit=scale-down&q=85&format=auto&s=31a51e71ed47d0403a6dbd2dc4502524903256bf5c841346cb7a8c804f0948d7",
+    "urlDemo": "https://html.themeholy.com/mediax/demo/home-medical-clinic.html"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "medical-service",
+    "name": "Trustlife - Medical and Health Landing Page",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/384684cb-39e6-4b50-8c44-daca5ab9a905?w=2038&cf_fit=scale-down&q=85&format=auto&s=c8aa44f7d5f750ad1ffd697ebf718be5b42f657a2db3430d957db250ced59c98",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/384684cb-39e6-4b50-8c44-daca5ab9a905?w=710&cf_fit=scale-down&q=85&format=auto&s=3d6695e8758f5e26b67e2962e1c2719f6e8c16a6bbbeb33b4c7d662c3e25491a",
+    "urlDemo": ""
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "medical-service",
+    "name": "Dental - Dentist and Medical Clinics Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/74269702-4d6b-47f8-8a89-bcc91166a5ac?w=2038&cf_fit=scale-down&q=85&format=auto&s=f31213c10b7e4ac4c2ac12f338c7d30fc3eee39c20dd95223ce83f3b0744dd7d",
+    "image2": "https://elements-resized.envatousercontent.com/elements-cover-images/74269702-4d6b-47f8-8a89-bcc91166a5ac?w=710&cf_fit=scale-down&q=85&format=auto&s=3b4fd3cef11759fc8f3f7a40f05f5e645eb402183554382b53b355e9f6a1d5e8",
+    "urlDemo": "https://st.ourhtmldemo.com/new/Dentalcare/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "medical-service",
+    "name": "Medikal - Health Care & Medical HTML5 Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/78ff1359-8e95-42a6-80f3-ebe9421fdcda?w=2038&cf_fit=scale-down&q=85&format=auto&s=069e9708a2630cf2ecf477637238b7afeb1249eba09ba53ec99a95cd2bfa343c",
+    "image2": "",
+    "urlDemo": "https://demos.webicode.com/html/medikal/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "medical-service",
+    "name": "Vicodin - Medical eCommerce Bootstrap Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/5a37686c-bd54-4b65-8fcc-4ba192ac93a2?w=2038&cf_fit=scale-down&q=85&format=auto&s=952bef67b114c144cefacf2ed71e2c49c0c4b807a42ddcdbd1cd1ace35757814",
+    "image2": "",
+    "urlDemo": "https://tunatheme.com/tf/html/vicodin-preview/vicodin/index-2.html"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "medical-service",
+    "name": "Medcity - Health & Medical",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/92346267-bbe5-453e-bb42-7562b9b83b0c?w=2038&cf_fit=scale-down&q=85&format=auto&s=a4a58f98d503208252bd26e814bfa775c63f07b663b7d30ba6b9f32cd281c1ba",
+    "image2": "",
+    "urlDemo": "https://7oroof.com/demos/medcity/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "medical-service",
+    "name": "MediFine - Health and Medical HTML Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/408ea96d-c16e-4693-be4c-f734c676d71c?w=2038&cf_fit=scale-down&q=85&format=auto&s=dd7ee7b6c3bd6a8eadfaa4f291221205720ac54b40f194736f3e42c29201b936",
+    "image2": "",
+    "urlDemo": "https://wphix.com/template/medifine-demo/medifine/index.html"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "medical-service",
+    "name": "Medical, Spa, Yoga & Fitness Landing Page Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/781d5bc0-bc21-4a8a-a4d0-cef3568e6ffe?w=2038&cf_fit=scale-down&q=85&format=auto&s=c029e132c1539c96f3bf692d3b49407579047fa3c810df0aa9d024d7f4ae6e44",
+    "image2": "",
+    "urlDemo": "https://demo.web3canvas.com/themeforest/mediclick/index.html"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "medical-service",
+    "name": "Dentalux",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/ca21f9c6-8a71-425d-a3cd-570193296f53?w=2038&cf_fit=scale-down&q=85&format=auto&s=94912ba4396eb7dae2a4ede3a0ae280b71d346df93d363e30ad7386e48b14359",
+    "image2": "",
+    "urlDemo": "https://dentalux-html.ancorathemes.com/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "events",
+    "name": "EVENTS - Multipurpose Conference Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/55095e77-0760-488d-a981-e0bf5c6a4491?w=2038&cf_fit=scale-down&q=85&format=auto&s=6c162a0ea97f5855b985cc16c403389bcdba50df5e3a7a52156259bf0db0d5b0",
+    "image2": "",
+    "urlDemo": "https://mutationmedia.net/EVENTS/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "events",
+    "name": "Ovation-Wedding & Event Photography HTML Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/84d9f067-684d-422b-bcbb-4d0b2dba61c4?w=2038&cf_fit=scale-down&q=85&format=auto&s=a73366d516b14a23d4dfc563236364821f7556241ad94144fc3ea5d4dde31f0c",
+    "image2": "",
+    "urlDemo": "https://tfhtml.themepul.com/ovation/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "events",
+    "name": "Wedding Event Invite HTML5",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/2bccb6e3-9e19-4356-bd32-4d21eca90ef7?w=2038&cf_fit=scale-down&q=85&format=auto&s=a88c2960b9cf57acb3dbad85b21b52814ef3c27c2817b23dee346ca6489ec556",
+    "image2": "",
+    "urlDemo": "https://wedesignthemes.com/html/wedding-new/index.html?storefront=envato-elements#home"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "events",
+    "name": "Events - Responsive Landing Page Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/188e7bd7-978e-4d39-bdb1-71ff2ca24ec5?w=2038&cf_fit=scale-down&q=85&format=auto&s=75689cf3465780fdf29544e2e2728ab149f3666b231d862361eef5454715e1fb",
+    "image2": "",
+    "urlDemo": "https://demo.epic-webdesign.com/tf-events/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "events",
+    "name": "Waybinar - Webinar & Event HTML Landing Page",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/b9d0e485-ee1a-49c5-b173-b3416435e212?w=2038&cf_fit=scale-down&q=85&format=auto&s=847d07ce9d600005bd809f4d2fd05dab75cf69b6cf6e0ccced86cb838ae96dad",
+    "image2": "",
+    "urlDemo": "https://tanshcreative.com/waybinar-lp-preview/variations/home-01/index.html"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "events",
+    "name": "Universo - Courses, Events, Education & University",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/19c42d9d-9517-4532-883d-c98c44b7523b?w=2038&cf_fit=scale-down&q=85&format=auto&s=db24d7666e0e4648ca4c449f382e185221a9ee5eda35e6a012c21a7922215558",
+    "image2": "",
+    "urlDemo": "http://www.themestarz.net/html/universo/index2.html"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "events",
+    "name": "Smart Education - Courses, Events Website Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/534f00a9-1eb9-40e4-81d0-ebf3bd3986ff?w=2038&cf_fit=scale-down&q=85&format=auto&s=f2ff82e89c818bb3f57a10f85099e837904698e91edc38335983418fd090f060",
+    "image2": "",
+    "urlDemo": "https://livewp.site/html/smartedu/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "events",
+    "name": "The Bebop Anime and Comic HTML Events & Convention",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/64edf479-5f05-47de-a783-52f7c1179e45?w=2038&cf_fit=scale-down&q=85&format=auto&s=2b0db74a921c511bdb10128ddede1550a2a037a5365306464e3eb75efb737af0",
+    "image2": "",
+    "urlDemo": "https://www.odindesignthemes.com/theBebop/anime/"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "events",
+    "name": "Live Event - Conference & Meetup HTML Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/f89170c7-dbed-4b7f-a528-f860225449f1?w=2038&cf_fit=scale-down&q=85&format=auto&s=19e8149a07ffbf74194b389cc2e76746f730e66b00d2f66dcb78e85925e77ae2",
+    "image2": "",
+    "urlDemo": "https://www.webstrot.com/html/liveevent/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "events",
+    "name": "Amping - Camp Organizer HTML Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/eb655c8c-1d8a-476e-8677-3a9766c8d92d?w=2038&cf_fit=scale-down&q=85&format=auto&s=39e2d5fb7b235c540735a144c7d933c316bf8488fc58666c409bcc7c1bbe3e5a",
+    "image2": "",
+    "urlDemo": "https://azim.commonsupport.com/Amping/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "sports-and-fitness",
+    "name": "Activity - Sport and Fitness Site Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/ecf79173-c671-4375-aeb3-b206b927b703?w=2038&cf_fit=scale-down&q=85&format=auto&s=534024d4d4a4f8212ea8f5de81892977a3fc26236ae483811a3e8086903dd771",
+    "image2": "",
+    "urlDemo": "https://www.ansonika.com/activity/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "sports-and-fitness",
+    "name": "Lovefit - Fitness Videos Training",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/9c81b4eb-2045-4d71-baed-c84643f3bf02?w=2038&cf_fit=scale-down&q=85&format=auto&s=bd680905fceeef0caa6771db94f74294410cbb38dc45816f0f2d566b6831d0b7",
+    "image2": "",
+    "urlDemo": "https://www.ansonika.com/lovefit/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "sports-and-fitness",
+    "name": "Handstand - Gym & Fitness",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/94bc7456-20c7-4d58-941f-c8ca40da666e?w=2038&cf_fit=scale-down&q=85&format=auto&s=68ab0288eb271440724ffea0d657d225d9444940b4ab406a64db5bb27ffc6e5a",
+    "image2": "",
+    "urlDemo": "https://template.hasthemes.com/handstand/handstand/index.html"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "sports-and-fitness",
+    "name": "Sport – Mobile Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/37463dc0-641c-497a-9747-490c454b6a63?w=2038&cf_fit=scale-down&q=85&format=auto&s=30d6d959e9c1be2a603b7dbccb28edbffc8b72580d626e31de0516931fefaa97",
+    "image2": "",
+    "urlDemo": "https://ngetemplates.com/sport/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "sports-and-fitness",
+    "name": "Gota - Sport eCommerce HTML5 Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/7ef88442-d02e-4f8b-831f-7cb4c1a7dbb4?w=2038&cf_fit=scale-down&q=85&format=auto&s=5788e7727ba946cd0121bd3168f18abf42c8cb9a4cf4af4af98db09cee986f9e",
+    "image2": "",
+    "urlDemo": "https://wphix.com/template/gota/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "sports-and-fitness",
+    "name": "Fitness Zone | Sports Template for Gym & Fitness",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/41f247bc-5cc9-4bed-857e-a81ae2f2ea18?w=2038&cf_fit=scale-down&q=85&format=auto&s=51a9ef1b3360e83d4bd9587e9b0fb6b8c6b7e73b1dfaf9f18652023c8ab4e5b2",
+    "image2": "",
+    "urlDemo": "https://wedesignthemes.com/html/fitness/index.html?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "sports-and-fitness",
+    "name": "Zunzo - Running Club and Sports HTML Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/4606e317-6038-4f5a-b000-a6317cc08b7f?w=2038&cf_fit=scale-down&q=85&format=auto&s=9b5b8f492cd4c8ff3474ba0bf6c578b4c64a46781dff51f788fc4565adb2c76b",
+    "image2": "",
+    "urlDemo": "https://themesflat.co/html/zunzo/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "sports-and-fitness",
+    "name": "Kidscamp - Kids Bootcamp Activities HTML Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/4c7ec11e-d83e-4570-818a-03424390165f?w=2038&cf_fit=scale-down&q=85&format=auto&s=ce56522dcbc2e958840a5c3fc08d9a0cf7a39e8e21f72d98a3e836fef0aa458d",
+    "image2": "",
+    "urlDemo": "https://demo.themeim.com/html/kidscamp/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "sports-and-fitness",
+    "name": "Pro Soccer - Football Club HTML",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/fbff1ac3-f167-44e4-aa63-b28ce2080188?w=2038&cf_fit=scale-down&q=85&format=auto&s=1cf197b0b8fd242e6b9423fe5515783a5ca175dc1bd6841928fa1ba8bcde70e7",
+    "image2": "",
+    "urlDemo": "http://html.rudhisasmito.com/prosoccer/index.html?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "sports-and-fitness",
+    "name": "Samantha - Personal Trainer & Fitness Gym Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/98a494e3-1a12-4751-979a-bb03883c3f2f?w=2038&cf_fit=scale-down&q=85&format=auto&s=0eeb2fe2050ac721edffe7ab95c5b32d0a7588166520b02944900f3da8cbb14a",
+    "image2": "",
+    "urlDemo": "https://bslthemes.com/html/samantha/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "news-and-blogs",
+    "name": "Hotmagazine - News & Magazine",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/9067a535-bbda-4130-a813-f741f8b56692?w=2038&cf_fit=scale-down&q=85&format=auto&s=f63d1063faae156ff92df194cabcab347e7d4e4dbd7ff63729e7092bc6674a16",
+    "image2": "",
+    "urlDemo": "https://nunforest.com/hotmagazine-demo/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "news-and-blogs",
+    "name": "USNews | News, Magazine and Blog HTML5 Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/98992b1a-7bfd-42c6-8036-83120ccabd2d?w=2038&cf_fit=scale-down&q=85&format=auto&s=117d3d44b9fcbb457b07bee3637178bf144d65bab3569833a5c2a3224f60c1fd",
+    "image2": "",
+    "urlDemo": "http://themelooks.us/demo/usnews/html/home-1.html"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "news-and-blogs",
+    "name": "Best Newspaper, Magazine News , Food html Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/4a79b504-c46c-4877-8de7-d58e19c39905?w=2038&cf_fit=scale-down&q=85&format=auto&s=2505087c967d26dfefe0d76d8796f47069a7be31214df42611fe5b58fa043ebf",
+    "image2": "",
+    "urlDemo": "https://solverwp.com/demo/html/nextpage/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "news-and-blogs",
+    "name": "Posty - News Magazine NextJS Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/71c6ded0-fa02-464a-a490-6f634142818d?w=2038&cf_fit=scale-down&q=85&format=auto&s=2750dd32dfb7ed40c96797a64e974811c51db91e530e659f856596d3e6f511fa",
+    "image2": "",
+    "urlDemo": "https://posty-one.vercel.app/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "news-and-blogs",
+    "name": "Conut - Viral Buzz and Personal Blog HTML5",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/5195ad83-3901-48c7-bbe2-698ae2ac1971?w=2038&cf_fit=scale-down&q=85&format=auto&s=2b9ed6959257ac7533fde121c261bd2cde12dc9087dd96ac2cede1345d9d1697",
+    "image2": "",
+    "urlDemo": "https://winsfolio.net/html/conut/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "news-and-blogs",
+    "name": "Beatrix - Modern Magazine HTML Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/a46b7d1b-9cc2-4f0f-8d19-863b1eb22e7f?w=2038&cf_fit=scale-down&q=85&format=auto&s=dcffc1f54690bfbe7683ddae6dafc204df90df1c296f4aa56e062ee8b0991664",
+    "image2": "",
+    "urlDemo": "https://gossip-themes.com/beatrix-html/preview/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "persional-porfolio-&-cv",
+    "name": "Responsive CV / Resume HTML Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/a4c3b9e6-66b0-4def-afa6-098ac9c3bbc5?w=2038&cf_fit=scale-down&q=85&format=auto&s=d8bd40800e2c65889698d71731895786f39ee62378f44d99411f67c54e62940d",
+    "image2": "",
+    "urlDemo": "https://demos.codexcoder.com/gentle-man/"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "persional-porfolio-&-cv",
+    "name": "Simone - Onepage Personal CV/Resume HTML Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/c78021e5-d7e1-47e8-8ed1-a488bf8e2eb3?w=2038&cf_fit=scale-down&q=85&format=auto&s=9c09554dda1540cbdabaca7417a8ca9c44d16ed30a82b4f8140b03d17e1a34f7",
+    "image2": "",
+    "urlDemo": "http://paul-themes.com/html/simone/home-personal.html?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "persional-porfolio-&-cv",
+    "name": "Ethant Hunt - Personal HTML Onepage Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/96ed8e3b-fa22-46f7-9af6-5e95593bf9e8?w=2038&cf_fit=scale-down&q=85&format=auto&s=e2d4fd373118bf62e7fbb38fd2623763904826280fd74577888deaa26065985a",
+    "image2": "",
+    "urlDemo": "http://paul-themes.com/html/ethant/index-dark.html#Portfolio"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "persional-porfolio-&-cv",
+    "name": "HAILEY - Creative Personal CV/Resume HTML Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/3027ea63-ee9a-46a5-9a13-3cb5cc9e5fa0?w=2038&cf_fit=scale-down&q=85&format=auto&s=6ab37a3fe94a2a7fd626b446c8bdfd52f59d6be5e599081dae7911b4d8486471",
+    "image2": "",
+    "urlDemo": "http://paul-themes.com/html/hayley/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "persional-porfolio-&-cv",
+    "name": "TechFolio - HTML & Tailwind CSS Portfolio Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/c02c3b00-24f3-426c-af10-3a04f1df266d?w=2038&cf_fit=scale-down&q=85&format=auto&s=8d09a254c36a827c09f8bb916d933d6151a0b761b78cff087f6c89d79c1758f5",
+    "image2": "",
+    "urlDemo": "https://techzaa.getappui.com/techfolio/index.html?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "hotel",
+    "name": "Hotel Booking - HTML Template for Hotels",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/41d20a49-3ae2-4f1a-937a-e6ce09bb816c?w=2038&cf_fit=scale-down&q=85&format=auto&s=10dad50d115eea103e49ec5f0812d353410491025a68427aaae6e8e8716ad470",
+    "image2": "",
+    "urlDemo": "https://demoxml.com/html/hotelbooking/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "hotel",
+    "name": "Paradise Hotel",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/e6d7068a-3971-41f0-9b4c-ba714c801bca?w=2038&cf_fit=scale-down&q=85&format=auto&s=2046748ec7958ccf78e2f703f9d7053640a3a9be2c43640ff2c05479f9f24322",
+    "image2": "",
+    "urlDemo": "https://www.ansonika.com/paradise/index.html"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "hotel",
+    "name": "Hotel Master | Hotel HTML Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/87ea46fa-a719-464e-89e2-ed9fcaa42c24?w=2038&cf_fit=scale-down&q=85&format=auto&s=3e6f59ca0acd138e9060514a91ab0c8ea33d02b413ccc491a24c6e038d7afd5b",
+    "image2": "",
+    "urlDemo": "https://max-themes.net/demos/hotelmaster/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "hotel",
+    "name": "Luxex - The Hotel Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/e5f5c041-de8f-43e0-83c8-535726dffe88?w=2038&cf_fit=scale-down&q=85&format=auto&s=66e69458d26e7be945433710ccce3000ebb56e2b6563a002dfd8ecbc184cce0c",
+    "image2": "",
+    "urlDemo": "https://www.11-76.com/themes/luxex/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "hotel",
+    "name": "Accommodo - Hotel & Travel Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/bb4d4c9f-568f-4ebb-8a8d-bcac3327cc65?w=2038&cf_fit=scale-down&q=85&format=auto&s=bac261f1dd8d409a42906bf04f69428e6a375495285ece00b53c267e67f8c974",
+    "image2": "",
+    "urlDemo": "http://themestarz.net/html/accommodo/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "hotel",
+    "name": "Lotus | Hotel Booking HTML Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/98c7d372-3114-42d6-aa70-a57e4753f65c?w=2038&cf_fit=scale-down&q=85&format=auto&s=3fd9fcadd48a44261a66dd2a2539f3c9d79af11ed4bf84af1643fac2c998feb1",
+    "image2": "",
+    "urlDemo": "https://landing.engotheme.com/html/lotus/demo/index.html"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "hotel",
+    "name": "Hotel Booking Boostrap 5 Template - Seaside",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/13cdbbd5-92f6-47e6-81e1-20b21d0e18ce?w=2038&cf_fit=scale-down&q=85&format=auto&s=f1832d7881abd7e296f8012fad28d8da22910d62f9031d1ef4e2aa3a9cf1a832",
+    "image2": "",
+    "urlDemo": "https://madebydesignesia.com/themes/seaside-select/?storefront=envato-elements"
+  },
+  {
+    "catagory": "opweb-templates",
+    "type": "hotel",
+    "name": "Hostel Booking Website Template",
+    "image1": "https://elements-resized.envatousercontent.com/elements-cover-images/5affb04f-8449-4c68-96e5-3572f4183dbb?w=2038&cf_fit=scale-down&q=85&format=auto&s=3e21c1ee9f2a9e072562e0c4f22d890e1e08c4cdfa4739fb3ba1f3326b959e22",
+    "image2": "",
+    "urlDemo": "https://html.merku.love/hosteller/?storefront=envato-elements"
+  }
+]
