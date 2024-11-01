@@ -7,7 +7,7 @@
   <title>Opweb Templates</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <link rel="stylesheet" href="./styles.css" />
-  
+
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
@@ -18,7 +18,29 @@
 </head>
 
 <body>
+
   <header class="bg-primary text-primary-foreground py-4">
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              primary: {
+                DEFAULT: '#000000', // Black for primary elements like text or headers
+                foreground: '#ffffff', // White for text on black backgrounds
+              },
+              background: '#ffffff', // White background
+              muted: '#d1d5db', // Light gray for subtle accents or muted text
+              secondary: {
+                DEFAULT: '#1f2937', // Darker gray for secondary elements
+                light: '#e5e7eb', // Lighter gray for hover states or background accents
+              },
+            },
+          },
+
+        },
+      }
+    </script>
     <div class="container mx-auto px-4">
       <nav class="flex justify-between items-center">
         <h1 class="text-2xl font-bold">WebCraft</h1>
@@ -561,27 +583,7 @@
       document.getElementById('mobileMenu').classList.toggle('hidden');
     });
   </script>
-  <script>
-    tailwind.config = {
-      theme: {
-        extend: {
-          colors: {
-            primary: {
-              DEFAULT: '#000000', // Black for primary elements like text or headers
-              foreground: '#ffffff', // White for text on black backgrounds
-            },
-            background: '#ffffff', // White background
-            muted: '#d1d5db', // Light gray for subtle accents or muted text
-            secondary: {
-              DEFAULT: '#1f2937', // Darker gray for secondary elements
-              light: '#e5e7eb', // Lighter gray for hover states or background accents
-            },
-          },
-        },
 
-      },
-    }
-  </script>
 </body>
 
 </html>
